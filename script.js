@@ -31,7 +31,7 @@ function showCopySuccess(element) {
     element.classList.remove("fas", "fa-check");
     element.classList.add("far", "fa-copy");
     element.style.color = "";
-  }, 1000);
+  }, 800);
 }
 
 function generatePalette() {
