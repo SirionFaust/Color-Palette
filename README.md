@@ -16,7 +16,11 @@ Modern UI: Clean interface featuring Google Sans typography and elegant backgrou
 Built With
 
 HTML5: Semantic structure.
+
 CSS3: Custom properties, Grid, Flexbox, and CSS Animations.
+
 JavaScript (ES6+): Random color logic and Clipboard API integration.
+
 Fonts: Google Sans for a premium feel.
+
 Icons: Font Awesome (for the copy/success states).
